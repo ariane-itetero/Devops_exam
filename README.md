@@ -3,14 +3,28 @@ This is a calculator app developed using spring boot and  react. It is also test
 
 #Tools & Frameworks used in the project
 
-### **_Tools & Frameworks used in the project_**
+### **_Tools & Frameworks I have used in the project_**
 * React (Frontend View Framework).
 * React Create App(To create React project).
-* Various JavaScript Libraries (Axios,,= React Router).
+* Various JavaScript Libraries (Axios, React Router).
 * Spring Boot (REST API Framework), Spring (Dependency Management).
 * BootStrap (Styling Pages), Maven (dependencies management).
 * Node (npm), Visual Studio Code (JavaScript IDE), IntelliJ (Java IDE) and Tomcat Embedded Web Server.
+## Available Scripts
 
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.<br>
+You will also see any lint errors in the console.
+
+### `npm test`
+
+To run the backend you just run the application
 
 
 

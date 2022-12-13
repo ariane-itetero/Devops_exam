@@ -26,10 +26,7 @@ You will also see any lint errors in the console.
 
 To run the backend you just run the application
 
-
-
-
-Tests for backend
+## Tests for backend demo
 
 ![image](https://user-images.githubusercontent.com/79269286/207268845-f98002ef-18d1-41d6-8a3d-3889b49b9bf4.png)
 

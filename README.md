@@ -11,4 +11,12 @@ Spring Security (Authentication and Authorization - Basic and JWT).
 Node (npm), Visual Studio Code (JavaScript IDE), IntelliJ (Java IDE) and Tomcat Embedded Web Server.
 
 
-![Screenshot (37)](https://user-images.githubusercontent.com/79269286/207268016-8c4b8784-f626-4220-b793-a1a3955e55d6.png)
+
+
+Tests for backend
+
+![image](https://user-images.githubusercontent.com/79269286/207268845-f98002ef-18d1-41d6-8a3d-3889b49b9bf4.png)
+
+
+![image](https://user-images.githubusercontent.com/79269286/207268575-e7b70768-e2ab-4e9d-b3df-47eff487f6cb.png)
+
